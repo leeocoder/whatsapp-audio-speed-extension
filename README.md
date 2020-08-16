@@ -1,2 +1,3 @@
 # whatsapp-audio-speed-extension
-Extension for chrome to accelerate the audio for whatsapp
+
+Simple extension for chrome to accelerate the audio for whatsapp 2x
