@@ -1,0 +1,10 @@
+div._1MXsz {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btnChanger {
+  border: 1px solid #999;
+  border-radius: 4px;
+  padding: 5px 16px;
+}
